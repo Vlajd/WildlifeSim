@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/TerrainGenerator"]
+	path = Assets/Scripts/TerrainGenerator
+	url = https://github.com/Vlajd/TerrainGenerator.git
